@@ -1,0 +1,14 @@
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\PostoCombustivel\bin\Debug\net8.0\PostoCombustivel.exe
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\PostoCombustivel\bin\Debug\net8.0\PostoCombustivel.deps.json
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\PostoCombustivel\bin\Debug\net8.0\PostoCombustivel.runtimeconfig.json
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\PostoCombustivel\bin\Debug\net8.0\PostoCombustivel.dll
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\PostoCombustivel\bin\Debug\net8.0\PostoCombustivel.pdb
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\PostoCombustivel\obj\Debug\net8.0\PostoCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\PostoCombustivel\obj\Debug\net8.0\PostoCombustivel.AssemblyInfoInputs.cache
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\PostoCombustivel\obj\Debug\net8.0\PostoCombustivel.AssemblyInfo.cs
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\PostoCombustivel\obj\Debug\net8.0\PostoCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\PostoCombustivel\obj\Debug\net8.0\PostoCombustivel.dll
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\PostoCombustivel\obj\Debug\net8.0\refint\PostoCombustivel.dll
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\PostoCombustivel\obj\Debug\net8.0\PostoCombustivel.pdb
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\PostoCombustivel\obj\Debug\net8.0\PostoCombustivel.genruntimeconfig.cache
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\PostoCombustivel\obj\Debug\net8.0\ref\PostoCombustivel.dll

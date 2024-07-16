@@ -1,0 +1,14 @@
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\CoordenadasWhile\bin\Debug\net8.0\CoordenadasWhile.exe
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\CoordenadasWhile\bin\Debug\net8.0\CoordenadasWhile.deps.json
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\CoordenadasWhile\bin\Debug\net8.0\CoordenadasWhile.runtimeconfig.json
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\CoordenadasWhile\bin\Debug\net8.0\CoordenadasWhile.dll
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\CoordenadasWhile\bin\Debug\net8.0\CoordenadasWhile.pdb
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\CoordenadasWhile\obj\Debug\net8.0\CoordenadasWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\CoordenadasWhile\obj\Debug\net8.0\CoordenadasWhile.AssemblyInfoInputs.cache
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\CoordenadasWhile\obj\Debug\net8.0\CoordenadasWhile.AssemblyInfo.cs
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\CoordenadasWhile\obj\Debug\net8.0\CoordenadasWhile.csproj.CoreCompileInputs.cache
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\CoordenadasWhile\obj\Debug\net8.0\CoordenadasWhile.dll
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\CoordenadasWhile\obj\Debug\net8.0\refint\CoordenadasWhile.dll
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\CoordenadasWhile\obj\Debug\net8.0\CoordenadasWhile.pdb
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\CoordenadasWhile\obj\Debug\net8.0\CoordenadasWhile.genruntimeconfig.cache
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\CoordenadasWhile\obj\Debug\net8.0\ref\CoordenadasWhile.dll

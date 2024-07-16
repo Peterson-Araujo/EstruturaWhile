@@ -1,0 +1,14 @@
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\ConsoleApp1\bin\Debug\net8.0\SenhaWhile.exe
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\ConsoleApp1\bin\Debug\net8.0\SenhaWhile.deps.json
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\ConsoleApp1\bin\Debug\net8.0\SenhaWhile.runtimeconfig.json
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\ConsoleApp1\bin\Debug\net8.0\SenhaWhile.dll
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\ConsoleApp1\bin\Debug\net8.0\SenhaWhile.pdb
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\ConsoleApp1\obj\Debug\net8.0\SenhaWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\ConsoleApp1\obj\Debug\net8.0\SenhaWhile.AssemblyInfoInputs.cache
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\ConsoleApp1\obj\Debug\net8.0\SenhaWhile.AssemblyInfo.cs
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\ConsoleApp1\obj\Debug\net8.0\SenhaWhile.csproj.CoreCompileInputs.cache
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\ConsoleApp1\obj\Debug\net8.0\SenhaWhile.dll
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\ConsoleApp1\obj\Debug\net8.0\refint\SenhaWhile.dll
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\ConsoleApp1\obj\Debug\net8.0\SenhaWhile.pdb
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\ConsoleApp1\obj\Debug\net8.0\SenhaWhile.genruntimeconfig.cache
+C:\Users\peter\OneDrive\Documentos\Estudos\EstruturaRepeticaoWhile\ConsoleApp1\obj\Debug\net8.0\ref\SenhaWhile.dll

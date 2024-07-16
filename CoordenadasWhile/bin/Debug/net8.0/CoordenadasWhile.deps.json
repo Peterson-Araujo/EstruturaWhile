@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CoordenadasWhile/1.0.0": {
+        "runtime": {
+          "CoordenadasWhile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoordenadasWhile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
